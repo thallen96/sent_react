@@ -3,8 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "c3": "^0.5.3",
     "jquery": "^3.3.1",
-    "material-ui": "latest",
+    "material-ui": "^0.20.0",
     "react": "^16.2.0",
     "react-c3js": "^0.1.20",
     "react-dom": "^16.2.0",
